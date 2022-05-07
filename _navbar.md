@@ -1,7 +1,9 @@
 <!-- _navbar.md -->
 
-* 链接到我
-  * [首页](https://zerubbabel.github.io/doc)
+* [首页](https://zerubbabel.github.io/doc)
+
+* Python
+  * [sort&sorted](/python/sort.md)
 
 * 链接到我
   * [Github地址](https://github.com/zerubbabel/)
